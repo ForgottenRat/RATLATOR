@@ -8,7 +8,7 @@ HOW TO USE:
 3. Using command prompt, go to the destination of the folder. 
 Example:
 cd Desktop
-cd RATLATOR 
+cd myfile
 
 4. Run with:
-    python (full file name).py
+    python RATLATOR(1.2).py
